@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.a2940280.css",
+    "main.js": "/reactweb/static/js/main.44b48ae5.js",
+    "static/media/welcome.gif": "/reactweb/static/media/welcome.d16d18c688491798bf39.gif",
+    "static/media/magazine.jpg": "/reactweb/static/media/magazine.2f45daf39083ebe2fe7a.jpg",
+    "static/media/constitution2.jpg": "/reactweb/static/media/constitution2.724d3f88cba09c486c75.jpg",
+    "static/media/ace.png": "/reactweb/static/media/ace.e1f826e6371b989e726c.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactweb/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/enviornment.5587de9b.svg": "/reactweb/static/media/enviornment.5587de9b.5587de9b69643af87d3ea6bcf826ffd8.svg",
+    "static/media/fontawesome-webfont.eot": "/reactweb/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactweb/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactweb/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactweb/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Department.svg": "/reactweb/static/media/Department.5342ef52c84012b42475ee6a8f6b8f46.svg",
+    "static/media/building.9b8f63cc.svg": "/reactweb/static/media/building.9b8f63cc.9b8f63ccf94c94790c66adb6edee55c5.svg",
+    "static/media/qualify.5d3f9da1.png": "/reactweb/static/media/qualify.5d3f9da1.5d3f9da15ec4d9abcce7.png",
+    "static/media/Blog.svg": "/reactweb/static/media/Blog.1e2d5f976c5d85ac2b5abbf8b4fbe1b7.svg",
+    "static/media/structure.19ad511f.svg": "/reactweb/static/media/structure.19ad511f.19ad511fefb2168aa599f86b71d8900b.svg",
+    "static/media/vision.8d3875cb.svg": "/reactweb/static/media/vision.8d3875cb.8d3875cb456844b25f7941b7a300070f.svg",
+    "static/media/constitution.svg": "/reactweb/static/media/constitution.a9a4f8f5e5986087d69a255ad72be417.svg",
+    "static/media/earth.564f8e9c.svg": "/reactweb/static/media/earth.564f8e9c.564f8e9cacad8349c12bc99eeb3b59b8.svg",
+    "static/media/aim.1fefe76f.svg": "/reactweb/static/media/aim.1fefe76f.1fefe76fcb60fe558e3636c9384dd673.svg",
+    "index.html": "/reactweb/index.html",
+    "main.a2940280.css.map": "/reactweb/static/css/main.a2940280.css.map",
+    "main.44b48ae5.js.map": "/reactweb/static/js/main.44b48ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2940280.css",
+    "static/js/main.44b48ae5.js"
+  ]
+}
